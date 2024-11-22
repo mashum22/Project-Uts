@@ -30,7 +30,7 @@ class ProfilePage extends StatelessWidget {
                 'Nama Nasabah',
                 style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.black), // Ukuran font diperbesar
               ),
-              _buildProfileField('Fandi Ahmad'),
+              _buildProfileField('Muhammad Ma`shum'),
 
               SizedBox(height: 20),
 
